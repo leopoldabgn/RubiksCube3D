@@ -12,16 +12,17 @@ Launch RubiksCube3D.pde with processing.
 
 ## How to play
 ### Keyboard
+Check the move notation : https://en.wikipedia.org/wiki/Rubik%27s_Cube#Move_notation
 
 To move the rubik's cube :
-- U
-- D
-- R
-- L
-- F
-- B
-- E
-- M
+- U (Up)
+- D (Down)
+- R (Right)
+- L (Left)
+- F (Front)
+- B (Back)
+- E (Equator)
+- M (Middle)
 
 To use : U', R', L'... You can activate "Maj lock"
 
