@@ -11,7 +11,7 @@ https://processing.org/download
 Launch RubiksCube3D.pde with processing. 
 
 ## How to play
-You can use the keyboard keys :
+### Keyboard
 
 To move the rubik's cube :
 - U
@@ -31,7 +31,7 @@ To scramble the cube :
 To move the entire cube :
 - left, up, right and bottom arrows.
 
-BUT, you can play with your mouse too !
+### Mouse
 First : You need to lock the "view" button on the top left-hand corner.
 Then : drag the mouse from one point to another. This should transform the cube (If not, you should try again ;-) )
 
