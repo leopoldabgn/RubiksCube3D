@@ -7,7 +7,7 @@ This project allows you to play with a rubik's cube in 3D. It was released on pr
 You can install processing here :
 https://processing.org/download
 
-## How to Launch
+## How to Launch
 Launch RubiksCube3D.pde with processing. 
 
 ## How to play
