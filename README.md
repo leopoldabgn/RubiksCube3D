@@ -37,5 +37,3 @@ To move the entire cube :
 - Drag the mouse from one point to another. This should transform the cube (If not, you should try again ;-) )
 
 If you drag your mouse outside the cube, this will make the cube rotate on itself, and the "view" button will be unchecked. So, you will need to lock it again if you want to continue playing with your mouse
-
-L.A.
