@@ -1,5 +1,5 @@
 # RubiksCube3D
-Date : april 11 2020
+Creation date : april 11 2020
 
 This project allows you to play with a rubik's cube in 3D. It was released on processing.
 
